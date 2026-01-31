@@ -6,3 +6,5 @@ DevOps eğitimi için oluşturulan repo.
 Hello from AWS!
 
 Incorrect Password!
+
+Connect by using SSH-KEY!
